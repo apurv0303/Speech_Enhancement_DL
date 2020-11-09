@@ -87,16 +87,16 @@ But I just want to show how I will be approach and solve this
 
 Voise(Time Vs Amplitude)
 
-![Alt text](images/1.PNG?raw=true "Title")
+![alt text](/images/1.png)
 
 Noise(Time Vs Amplitude)
 
-![Alt text](images/2.PNG?raw=true "Title")
+![alt text](/images/2.png)
 
 Blended Noisy\_voice(Time Vs Amplitude)
 
-![Alt text](images/3.PNG?raw=true "Title")
+![alt text](/images/3.png))
 
 . Final output
 
-![Alt text](images/1.PNG?raw=true "Title")
+![alt text](/images/1.png)
