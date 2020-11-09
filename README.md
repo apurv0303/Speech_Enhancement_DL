@@ -91,12 +91,12 @@ Voise(Time Vs Amplitude)
 
 Noise(Time Vs Amplitude)
 
-![Alt text](images/2.PNG?raw=true "Title"
+![Alt text](images/2.PNG?raw=true "Title")
 
 Blended Noisy\_voice(Time Vs Amplitude)
 
-![Alt text](images/3.PNG?raw=true "Title"
+![Alt text](images/3.PNG?raw=true "Title")
 
 . Final output
 
-![Alt text](images/4.PNG?raw=true "Title"
+![Alt text](images/1.PNG?raw=true "Title")
