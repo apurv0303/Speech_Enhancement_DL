@@ -5,20 +5,29 @@ Deep Learning maps the relationship between the noisy and clean speech signals.
 
 ## Packgaes Required
 
-1.Python 
-2.Keras 2.3.1
-3.Lebrosa
-4.Soundfile
-5.Numpy
-6.pandas
-7.Jupyter notebook
+**1.Python**
+**2.Keras 2.3.1**
+**3.Lebrosa**
+**4.Soundfile**
+**5.Numpy**
+**6.pandas**
+**7.Jupyter notebook**
 
 ## How to run
 
-If you have to denoise an audio input then create an directory dir_for_prediction and load sound_enhancement.py.
-Then run (prediction function) with required directory and name of audio.wav.
+**If you want to train**
+Clean_audio Input::Put audios in clean_voice directory
+Noisy Input::Put audios in noise directory
+Spectogram::Here spectograms of blended audios will be saved for model input.
 
-How I have approached the problem:
+**If you want to predict**
+If you have to denoise an audio input then add your audiosin:: dir_for_prediction
+Then run (prediction function) with required directory and name of audio.wav.
+Yours audios will be saved in saved output folder
+
+I have added some audios in each folder to refer.
+
+## How I have approached the problem:
 
 
 **In Brief:-**
