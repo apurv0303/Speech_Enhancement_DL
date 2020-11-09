@@ -1,6 +1,6 @@
 # Speech_Enhancement_Using_Deep_Learning
 
-This projects aims to enhance the quality of audio signal using neural Nets where,
+This projects aims to enhance the quality of audio signal by removing noise where,
 Deep Learning maps the relationship between the noisy and clean speech signals.
 
 ## Packgaes Required
@@ -13,7 +13,7 @@ Deep Learning maps the relationship between the noisy and clean speech signals.
 6.pandas
 7.Jupyter notebook
 
-##How to run
+## How to run
 
 If you have to denoise an audio input then create an directory dir_for_prediction and load sound_enhancement.py.
 Then run (prediction function) with required directory and name of audio.wav.
@@ -61,21 +61,19 @@ Librosa library has been used for further magnitude and phase plots.
 
 Used this value for different constants to process the data:
 
-sample\_rate=8000
+**sample\_rate=8000**
 
-min\_duration=1.0
+**min\_duration=1.0**
 
-![](RackMultipart20201109-4-6mw7mc_html_145f73ec10e003bf.gif)frame\_length=8064
+**hop\_length\_frame=8064 Name in accordance of Librosa library**
 
-hop\_length\_frame=8064 Name in accordance of Librosa library
+**hop\_length\_frame\_noise=5000**
 
-hop\_length\_frame\_noise=5000
+**nb\_samples=50**
 
-nb\_samples=50
+**n\_fft=255**
 
-n\_fft=255
-
-hop\_length\_fft=63
+**hop\_length\_fft=63**
 
 I have created an random noise array with shape (50,8064) then blends voice input.Performs same operation on noise data.
 
