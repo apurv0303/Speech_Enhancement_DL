@@ -1,17 +1,11 @@
 # Speech_Enhancement_DL
 It will take noisy audio as input and remove all noises and produce clean audio.
 
-**Sarthi.ai**
-
 # **Apurv**
 
-Speech Enhancement Assignment
 
-**What To Do::**
 
-As,per my understanding for a given Audio I have to remove the unwanted frequencies(Noise) and give an clear audio output.
 
-**How To Do::**
 
 **In Brief:-**
 
@@ -29,7 +23,7 @@ Step:5::Training the model
 
 Step:6::Checking how efficient the model is.
 
-**With Explations:-**
+**Explation:-**
 
 Step:1::
 
@@ -93,16 +87,16 @@ But I just want to show how I will be approach and solve this
 
 Voise(Time Vs Amplitude)
 
-![](RackMultipart20201109-4-1ws0119_html_435fcab4528d7399.png)
+![Alt text](images/1.PNG?raw=true "Title")
 
 Noise(Time Vs Amplitude)
 
-![](RackMultipart20201109-4-1ws0119_html_673ebe044d87e84b.png)
+![Alt text](images/2.PNG?raw=true "Title"
 
 Blended Noisy\_voice(Time Vs Amplitude)
 
-![](RackMultipart20201109-4-1ws0119_html_a34e0d6aac6a56e4.png)
+![Alt text](images/3.PNG?raw=true "Title"
 
 . Final output
 
-![](RackMultipart20201109-4-1ws0119_html_435fcab4528d7399.png)
+![Alt text](images/4.PNG?raw=true "Title"
