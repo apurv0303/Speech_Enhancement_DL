@@ -3,7 +3,7 @@
 This projects aims to enhance the quality of audio signal by removing noise where,
 Deep Learning maps the relationship between the noisy and clean speech signals.
 
-## Packgaes Required
+## Packages Required
 
 **1.Python**
 **2.Keras 2.3.1**
